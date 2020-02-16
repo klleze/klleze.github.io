@@ -1,0 +1,70 @@
+#leftdiv{
+  width: 35%;
+  height: 100%;
+  background: white;
+  position: fixed;
+  opacity: 0.7;
+  z-index: 1;
+  margin: 0;
+  padding: none;
+}
+li{
+  text-decoration: none;
+  display: inline-block;
+  padding-right: 20px;
+  margin-left: 10px;
+  margin-bottom: 0;
+}
+.left-text{
+  margin-left: 60px
+}
+h1{
+  font-family: 'Fredoka One', sans-serif;
+  color: #717375;
+  font-size: 32px;
+  line-height: 42px;
+  letter-spacing: 1px;
+  display:flex;
+}
+
+.about, li a{
+  color: #717375;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 20;
+  letter-spacing: 0.5px;
+}
+.left-text, a{
+  margin-top: 100px;
+  text-decoration: none;
+  font-size: 24px;
+  font-family: 'Fredoka One', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+i{
+  color: #717375;
+  padding-right: 10px;
+}
+/**red case study**/
+#rightdiv{
+  width: 100%;
+  height: 1500px;
+  background: #66789C;
+  position: absolute;
+}
+img{
+  margin-left: 50%;
+  margin-top: 5%;
+  border-radius: 10px;
+}
+
+.bio{
+  font-family: 'Roboto', sans-serif;
+  margin-left: 50%;
+  margin-right: 15%;
+  margin-top: 2%;
+  line-height: 28px;
+  color: white;
+}
